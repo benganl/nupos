@@ -1,0 +1,9 @@
+/home/user/projects/openbravo-java-pos-master/jetty/contrib/wadi/src/main/java/org/mortbay/jetty/servlet/wadi/WadiCluster.java
+/home/user/projects/openbravo-java-pos-master/jetty/contrib/wadi/src/main/java/org/mortbay/jetty/servlet/wadi/CounterHandler.java
+/home/user/projects/openbravo-java-pos-master/jetty/contrib/wadi/src/main/java/org/mortbay/jetty/servlet/wadi/WadiSession.java
+/home/user/projects/openbravo-java-pos-master/jetty/contrib/wadi/src/main/java/org/mortbay/jetty/servlet/wadi/SessionAlreadyExistsException.java
+/home/user/projects/openbravo-java-pos-master/jetty/contrib/wadi/src/main/java/org/mortbay/jetty/servlet/wadi/WadiSessionManager.java
+/home/user/projects/openbravo-java-pos-master/jetty/contrib/wadi/src/main/java/org/mortbay/jetty/servlet/wadi/WADITestServer.java
+/home/user/projects/openbravo-java-pos-master/jetty/contrib/wadi/src/main/java/org/mortbay/jetty/servlet/wadi/SessionListener.java
+/home/user/projects/openbravo-java-pos-master/jetty/contrib/wadi/src/main/java/org/mortbay/jetty/servlet/wadi/WadiSessionHandler.java
+/home/user/projects/openbravo-java-pos-master/jetty/contrib/wadi/src/main/java/org/mortbay/jetty/servlet/wadi/WadiSessionAdaptor.java
